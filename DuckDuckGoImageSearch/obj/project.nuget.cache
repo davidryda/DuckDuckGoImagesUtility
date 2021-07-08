@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDnED/PMD13HTnZThXCv4w5df1FvCNl2r+jHNsYH++kx13kXjDDPGFxfRSMiCuBWyh2WZpGn2WhuV3D5KZno4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Falcon\\Source\\Repos\\davidryda\\DuckDuckGoImagesUtility\\DuckDuckGoImageSearch\\DuckDuckGoImageSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Falcon\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\Falcon\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Falcon\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Falcon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Falcon\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\Falcon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

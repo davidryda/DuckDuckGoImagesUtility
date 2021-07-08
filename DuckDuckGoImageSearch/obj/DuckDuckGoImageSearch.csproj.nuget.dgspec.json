@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Falcon\\Source\\Repos\\davidryda\\DuckDuckGoImagesUtility\\DuckDuckGoImageSearch\\DuckDuckGoImageSearch.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Falcon\\Source\\Repos\\davidryda\\DuckDuckGoImagesUtility\\DuckDuckGoImageSearch\\DuckDuckGoImageSearch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Falcon\\Source\\Repos\\davidryda\\DuckDuckGoImagesUtility\\DuckDuckGoImageSearch\\DuckDuckGoImageSearch.csproj",
+        "projectName": "DuckDuckGoImageSearch",
+        "projectPath": "C:\\Users\\Falcon\\Source\\Repos\\davidryda\\DuckDuckGoImagesUtility\\DuckDuckGoImageSearch\\DuckDuckGoImageSearch.csproj",
+        "packagesPath": "C:\\Users\\Falcon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Falcon\\Source\\Repos\\davidryda\\DuckDuckGoImagesUtility\\DuckDuckGoImageSearch\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Falcon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[0.16.0, )"
+            },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
